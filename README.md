@@ -1,7 +1,3 @@
-Here’s a **GitHub README.md draft** tailored for your hackathon project **Coastal Threat Alert System** 👇
-
----
-
 # 🌊 Coastal Threat Alert System
 
 An AI-powered early warning and alert platform to protect coastal communities and ecosystems from threats such as storm surges, sea-level rise, illegal dumping, algal blooms, and cyclones. Built during **\[Hackathon Name]**.
